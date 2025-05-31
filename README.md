@@ -12,12 +12,9 @@ Added Features
     Better UI
     More features coming soon
 
-Prerequisites
 
-To open project you need:
 
-    Visual Studio 2019+
-    This repository
+
 
 DISCLAIMER !!!
 
